@@ -25,7 +25,7 @@ namespace CollisionExample
         /// <summary>
         /// Creates a new coin sprite
         /// </summary>
-        /// <param name="position">The position of the sprite in the game</param>
+        /// <param name="position">The position of the coin sprite in the game</param>
         public CoinSprite(Vector2 position)
         {
             this.position = position;
